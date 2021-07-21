@@ -1,0 +1,16 @@
+# Dependency directory
+node_modules
+
+build
+
+
+# IntelliJ Files
+*.iml
+*.ipr
+*.iws
+/out/
+.idea/
+.idea_modules/
+Antioch_Dataset_08032020.zip
+Antioch_Dataset_08242020.zip
+.env
